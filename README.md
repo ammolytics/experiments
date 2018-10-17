@@ -1,2 +1,3 @@
-# experiments
-Documentation and datasets for conducted ballistic experiments.
+# Ammolytics Experiments
+
+Documentation, datasets, and other information for conducted experiments.

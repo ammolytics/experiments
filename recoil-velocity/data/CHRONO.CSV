@@ -1,0 +1,53 @@
+Series, 6, Shots:, 1
+Min,2767, Max,2767  
+Avg,2767 ,S-D,   0  
+ES ,   0
+
+Series,Shot,Speed   
+ 6, 1, 2767, ft/s   
+----,----,----,---- 
+Series, 7, Shots:, 4
+Min,2739, Max,2745  
+Avg,2742 ,S-D, 2.6  
+ES ,   6
+
+Series,Shot,Speed   
+ 7, 1, 2739, ft/s   
+ 7, 2, 2741, ft/s   
+ 7, 3, 2745, ft/s   
+ 7, 4, 2744, ft/s   
+----,----,----,---- 
+Series, 8, Shots:,10
+Min,2737, Max,2791  
+Avg,2771 ,S-D,18.9  
+ES ,  54
+
+Series,Shot,Speed   
+ 8, 1, 2768, ft/s   
+ 8, 2, 2740, ft/s   
+ 8, 3, 2774, ft/s   
+ 8, 4, 2787, ft/s   
+ 8, 5, 2788, ft/s   
+ 8, 6, 2776, ft/s   
+ 8, 7, 2791, ft/s   
+ 8, 8, 2777, ft/s   
+ 8, 9, 2781, ft/s   
+ 8,10, 2737, ft/s   
+----,----,----,---- 
+Series, 9, Shots:,10
+Min,2767, Max,2789  
+Avg,2776 ,S-D, 6.2  
+ES ,  22
+
+Series,Shot,Speed   
+ 9, 1, 2767, ft/s   
+ 9, 2, 2777, ft/s   
+ 9, 3, 2778, ft/s   
+ 9, 4, 2773, ft/s   
+ 9, 5, 2769, ft/s   
+ 9, 6, 2778, ft/s   
+ 9, 7, 2781, ft/s   
+ 9, 8, 2775, ft/s   
+ 9, 9, 2780, ft/s   
+ 9,10, 2789, ft/s   
+----,----,----,---- 
