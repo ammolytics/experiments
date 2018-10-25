@@ -8,12 +8,25 @@
 
 Note: The Pressure Trace II system failed to record the first sighter/fouler shot. To compensate for the discrepency, I archived this shot on the MagnetoSpeed chronograph to keep it separate from the remaining captured data.
 
+
+## Arduino-based acceleration sensor
+
+[Adafruit LIS3DH Triple-Axis Accelerometer](https://www.adafruit.com/product/2809)
+[Adafruit Feather M0 Bluefruit LE](https://www.adafruit.com/product/2995)
+[Adalogger FeatherWing - RTC + SD](https://www.adafruit.com/product/2922)
+[3.7V 500maH LiPo Battery](https://www.amazon.com/gp/product/B0798DV4BS/)
+[3d-printable mount](https://grabcad.com/library/3-axis-acceleration-sensor-mount-1)
+
+Software is available in the `arduino/` directory.
+
+
 ## Ammunition detail
 
 - Bullet: 142gr 0.264" 6.5mm Sierra MatchKing
 - Powder: 41.6gr HodgdonH4350
 - Brass: Lapua 6.5mm Creedmoor (small rifle primer)
 - Primer: CCI BR-4
+
 
 ## Rifle detail
 
