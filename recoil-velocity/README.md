@@ -6,9 +6,7 @@
 - 10 rounds fired with preloaded bipod technique
 - 10 rounds fired with free-recoil technique
 
-Note: The Pressure Trace II system failed to record the first sighter/fouler shot. To compensate for the discrepency, I archived this shot on the MagnetoSpeed chronograph to keep it separate from the remaining captured data.
-
-_Affiliate links are used below to help support Ammolytics_
+Note: The [Pressure Trace II](https://www.shootingsoftware.com/pressure.htm) system failed to record the first sighter/fouler shot. To compensate for the discrepency, I archived this shot on the [MagnetoSpeed chronograph](https://brownells.7eer.net/c/1284526/60594/1625?u=https%3A%2F%2Fwww.brownells.com%2Fshooting-accessories%2Frange-gear%2Fchronographs%2Fmagnetospeed-barrel-mounted-chronograph-prod55606.aspx) to keep it separate from the remaining captured data.
 
 ## Arduino-based acceleration sensor
 
@@ -43,3 +41,6 @@ Built by [Spartan Precision Rifles](https://spartanrifles.com/).
 - Muzzle brake: [Rugged Suppressor 7.62 3-port brake](https://ruggedsuppressors.com/product/7-62-muzzle-brake/)
 - Suppressor: [Rugged Suppressor Surge 7.62](https://ruggedsuppressors.com/product/surge-762/)
 - Bipod: Harris [BRM-S bipod with Larue Tactical LT706 mount](https://www.larue.com/products/harris-bipod-brm-s-and-lt706-qd-swivel-mount-combo/)
+
+
+_Affiliate links may be used above to help support Ammolytics._
