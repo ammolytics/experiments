@@ -14,7 +14,7 @@ Note: The [Pressure Trace II](https://www.shootingsoftware.com/pressure.htm) sys
 - [Adafruit Feather M0 Bluefruit LE](https://amzn.to/2ryuGN1)
 - [Adalogger FeatherWing - RTC + SD](https://amzn.to/2EsIelH)
 - [3.7V 500maH LiPo Battery](https://amzn.to/2UASH3g)
-- [3d-printable mount](https://grabcad.com/library/3-axis-acceleration-sensor-mount-1)
+- [3d-printed mount](https://www.thingiverse.com/thing:3343163)
 
 Software is available in the `arduino/` directory.
 
