@@ -1,5 +1,9 @@
 # Experiment: Recoil vs Muzzle Velocity
 
+[Read the full article](https://blog.ammolytics.com/2018-12-12/experiment-recoil-vs-muzzle-velocity.html) which investigates the relationship between Recoil and Muzzle Velocity.
+
+## Experiment details
+
 25 rounds were fired for this experiment, which was conducted on 2018-08-27.
 
 - 5 rounds sighters/foulers (preloaded bipod)
@@ -10,10 +14,10 @@ Note: The [Pressure Trace II](https://www.shootingsoftware.com/pressure.htm) sys
 
 ## Arduino-based acceleration sensor
 
-- [Adafruit LIS3DH Triple-Axis Accelerometer](https://amzn.to/2PASGsD)
-- [Adafruit Feather M0 Bluefruit LE](https://amzn.to/2ryuGN1)
-- [Adalogger FeatherWing - RTC + SD](https://amzn.to/2EsIelH)
-- [3.7V 500maH LiPo Battery](https://amzn.to/2UASH3g)
+- [Adafruit LIS3DH Triple-Axis Accelerometer](https://amzn.to/2CqVRi0)
+- [Adafruit Feather M0 Bluefruit LE](https://amzn.to/2DhGHNH)
+- [Adalogger FeatherWing - RTC + SD](https://amzn.to/2T2kdFU)
+- [3.7V 500maH LiPo Battery](https://amzn.to/2RR6wfC)
 - [3d-printed mount](https://www.thingiverse.com/thing:3343163)
 
 Software is available in the `arduino/` directory.
