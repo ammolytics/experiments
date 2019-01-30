@@ -14,10 +14,10 @@ Note: The [Pressure Trace II](https://www.shootingsoftware.com/pressure.htm) sys
 
 ## Arduino-based acceleration sensor
 
-- [Adafruit LIS3DH Triple-Axis Accelerometer](https://amzn.to/2CqVRi0)
-- [Adafruit Feather M0 Bluefruit LE](https://amzn.to/2DhGHNH)
-- [Adalogger FeatherWing - RTC + SD](https://amzn.to/2T2kdFU)
-- [3.7V 500maH LiPo Battery](https://amzn.to/2RR6wfC)
+- [Adafruit LIS3DH Triple-Axis Accelerometer](https://www.amazon.com/gp/product/B01BU70B64/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=ammolytics0b-20&creative=9325&linkCode=as2&creativeASIN=B01BU70B64&linkId=e9c352ddd0167d5c759dca3fdacf3b4f)
+- [Adafruit Feather M0 Bluefruit LE](https://www.amazon.com/gp/product/B01E1RESIM/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=ammolytics0b-20&creative=9325&linkCode=as2&creativeASIN=B01E1RESIM&linkId=9507195f4dfddf256d968238564249e7)
+- [Adalogger FeatherWing - RTC + SD](https://www.amazon.com/gp/product/B01BZRN8B4/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=ammolytics0b-20&creative=9325&linkCode=as2&creativeASIN=B01BZRN8B4&linkId=5eac489f1c000cc92d82123bc90ae135)
+- [3.7V 500maH LiPo Battery](https://www.amazon.com/gp/product/B0798DV4BS/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=ammolytics0b-20&creative=9325&linkCode=as2&creativeASIN=B0798DV4BS&linkId=f1c1fc4510ad081c0223ce9a010871f5)
 - [3d-printed mount](https://www.thingiverse.com/thing:3343163)
 
 Software is available in the `arduino/` directory.
